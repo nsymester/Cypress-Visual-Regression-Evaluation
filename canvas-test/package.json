@@ -1,0 +1,17 @@
+{
+	"name": "canvas-test",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"e2e": "cypress open"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"cypress": "^5.4.0",
+		"cypress-plugin-snapshots": "^1.4.4",
+		"js-base64": "^2.5.2"
+	}
+}

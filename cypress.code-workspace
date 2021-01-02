@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "regression-test",
+			"path": "regression-test"
+		},
+		{
+			"name": "screenshot-example",
+			"path": "screenshot-example"
+		},
+		{
+			"name": "canvas-test",
+			"path": "canvas-test"
+		},
+		{
+			"name": "end-to-end-testing-with-cypress",
+			"path": "end-to-end-testing-with-cypress"
+		},
+		{
+			"name": "visual-regression",
+			"path": "visual-regression"
+		}
+	],
+	"settings": {}
+}

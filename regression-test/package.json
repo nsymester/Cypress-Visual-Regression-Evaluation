@@ -1,0 +1,22 @@
+{
+	"name": "regression-test",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"serve": "serve public -p 8000",
+		"cy:open": "cypress open",
+		"cy:run": "cypress run"
+	},
+	"keywords": [
+		"cypress"
+	],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"cypress": "^5.4.0",
+		"cypress-image-snapshot": "^3.1.1",
+		"serve": "^11.3.2",
+		"start-server-and-test": "^1.11.5"
+	}
+}

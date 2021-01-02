@@ -1,0 +1,19 @@
+{
+  "name": "cypress-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "serve public",
+    "test": "cypress run",
+    "test:local": "start-server-and-test dev 5000 test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.6.0",
+    "serve": "^11.3.2",
+    "start-server-and-test": "^1.11.5"
+  }
+}

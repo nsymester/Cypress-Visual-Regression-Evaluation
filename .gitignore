@@ -1,0 +1,12 @@
+# Ignore node and its packages which are downloaded from Proget at build time
+*/node/
+*/node_modules/
+#**/reactjs/**/js/*
+
+#vscode files
+.vscode
+.vscode/*
+
+*/cypress/videos
+*/cypress/screenshots
+*/cypress/snapshots

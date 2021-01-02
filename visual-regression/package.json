@@ -1,0 +1,22 @@
+{
+	"name": "visual-regression",
+	"version": "1.0.0",
+	"description": "From: Michael Herman\r Link: <https://github.com/mjhea0/cypress-visual-regression>",
+	"main": "index.js",
+	"scripts": {
+		"serve": "serve public -p 8000",
+		"cy:run": "cypress run",
+		"cy:open": "cypress open"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"cypress-visual-regression": "^1.5.6"
+	},
+	"devDependencies": {
+		"cypress": "^6.2.0",
+		"serve": "^11.3.2",
+		"start-server-and-test": "^1.11.7"
+	}
+}
