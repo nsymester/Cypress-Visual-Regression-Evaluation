@@ -1,0 +1,24 @@
+{
+	"name": "3-screenshot-leonardo-faria-with-dockerfile",
+	"version": "1.0.0",
+	"description": "Repository showing Cypress tests",
+	"main": "index.js",
+	"scripts": {
+		"serve": "serve public -p 8000",
+		"cy:run": "cypress run",
+		"cy:open": "cypress open"
+	},
+	"keywords": [
+		"cypress"
+	],
+	"author": "Leonardo Faria",
+	"license": "MIT",
+	"devDependencies": {
+		"cypress": "^5.4.0",
+		"cypress-image-snapshot": "^3.1.1",
+		"serve": "^11.3.2"
+	},
+	"dependencies": {
+		"cross-env": "^7.0.2"
+	}
+}

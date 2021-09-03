@@ -1,0 +1,9 @@
+{
+	"o-baseUrl": "http://localhost:8000/",
+	"baseUrl": "http://host.docker.internal:8000/",
+	"screenshotsFolder": "assets/screenshots",
+	"videosFolder": "assets/videos",
+	"downloadsFolder": "assets/downloads",
+	"chromeWebSecurity": false,
+	"video": false
+}

@@ -1,24 +1,24 @@
 {
 	"folders": [
 		{
-			"name": "canvas-test",
-			"path": "canvas-test"
+			"name": "1-recommended-regression-test",
+			"path": "1-recommended-regression-test"
 		},
 		{
-			"name": "end-to-end-testing-with-cypress",
-			"path": "end-to-end-testing-with-cypress"
+			"name": "2-screenshot-Leonardo-Faria",
+			"path": "2-screenshot-Leonardo-Faria"
 		},
 		{
-			"name": "regression-test",
-			"path": "regression-test"
+			"name": "3-screenshot-Leonardo-Faria-with-dockerfile",
+			"path": "3-screenshot-Leonardo-Faria-with-dockerfile"
 		},
 		{
-			"name": "screenshot-example",
-			"path": "screenshot-example"
+			"name": "4-visual-regression-Michael-Herman",
+			"path": "4-visual-regression-Michael-Herman"
 		},
 		{
-			"name": "visual-regression",
-			"path": "visual-regression"
+			"name": "5-canvas-test-VALENTINO-GAGLIARDI",
+			"path": "5-canvas-test-VALENTINO-GAGLIARDI"
 		}
 	],
 	"settings": {}
