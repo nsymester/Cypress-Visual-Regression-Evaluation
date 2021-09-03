@@ -3,6 +3,8 @@
 From:  Leonardo Faria
 Link: <https://leonardofaria.net/2020/08/03/adding-screenshot-testing-with-cypress-in-your-project/>
 
+NB: the following command runs well in Powershell but not MS-DOS CMD or Bash `docker run -it -e CYPRESS_updateSnapshots=$CYPRESS_updateSnapshots --ipc=host -v $PWD:/e2e -w /e2e cypress/included:4.11.0`
+
 [![cypress-example](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/simple/hcwi3o/master&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/hcwi3o/runs) [![vercel](https://badgen.net/badge/icon/Vercel?icon=zeit&label&color=black&labelColor=black)](https://cypress-example.vercel.app/) [![Twitter Follow](https://img.shields.io/twitter/follow/leozera?label=Follow%20on%20Twitter)](https://twitter.com/leozera/)
 
 Example repository showing how to use Cypress and Cypress Image Snapshot.
